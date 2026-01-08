@@ -1,7 +1,3 @@
-Below is a **complete, publication-ready `README.md`** for **Structural Functions in Music (SFIM)**, written as a **theoretical + computational research project**, with **explicit Python examples** embedded throughout.
-
-You can paste this directly into `/Users/x86/SFIM/README.md`.
-
 ---
 
 # Structural Functions in Music (SFIM)
@@ -272,11 +268,3 @@ MIT License (or specify otherwise)
 A research framework for **multilevel metric structure**
 
 ---
-
-If you want next:
-- a **formal API spec**
-- a **theory → code mapping table**
-- a **notation-free analysis pipeline**
-- or a **SFIM-based generative engine**
-
-say the word.
